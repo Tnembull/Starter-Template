@@ -4,7 +4,7 @@ Starter Template untuk pengembangan sistem berbasis **Node.js**, **TypeScript**,
 
 ---
 
-## 🚀 Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 - **Node.js**: Runtime environment untuk menjalankan JavaScript di server.
 - **Express.js**: Web framework minimalis untuk Node.js.
@@ -27,7 +27,7 @@ Pastikan Anda telah menginstal:
 
 ---
 
-## 📦 Instalasi
+## Instalasi
 
 ### 1. Clone Repositori
 
@@ -111,7 +111,7 @@ http://localhost:3000
 
 ---
 
-## 👢 Struktur Folder
+## Struktur Folder
 
 ```plaintext
 nama_repo/
@@ -158,7 +158,7 @@ nama_repo/
 
 ---
 
-## 📋 Cara Release Versi Baru
+## Cara Release Versi Baru
 
 1. Pastikan semua fitur sudah selesai dan di-commit dengan format **Conventional Commits**.
 2. Jalankan build dan linting:
@@ -184,7 +184,7 @@ git push --follow-tags
 
 ---
 
-## 🧮 Contribution Guide
+## Contribution Guide
 
 ### Langkah Singkat:
 
@@ -223,7 +223,7 @@ Contoh:
 
 ---
 
-## 💍 Release Notes
+## Release Notes
 
 Release Notes akan dibuat otomatis di `CHANGELOG.md` setiap kali menjalankan `npm run release`.
 
@@ -235,13 +235,13 @@ Format Versi:
 
 ---
 
-# 📏 Badge (Opsional)
+# Badge 
 
-```markdown
+
 ![Node.js](https://img.shields.io/badge/Node.js-16.x-green)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.x-blue)
 ![Express.js](https://img.shields.io/badge/Express.js-4.x-lightgrey)
 ![Prisma](https://img.shields.io/badge/Prisma-ORM-blueviolet)
 ![License](https://img.shields.io/badge/license-ISC-blue)
-```
+
 
